@@ -1,5 +1,5 @@
 # I am Puneeth
-
+logo: /pkumarsn.jpeg
 ## About Me
 I'm an electrical engineer specializing in the development of safety-critical electronic hardware for aviation and industrialization projects. With over a decade of experience, I have a strong background in PCB design, circuit simulation, and standards for aerospace electronics.
 
