@@ -4,7 +4,7 @@ I'm an electrical engineer specializing in the development of electronic hardwar
 
 ## Experience Highlights
 
-- **Industrialization Expert at Hilti (via Ferchau)**  
+- **Industrialization Engineer at Hilti (via Ferchau)**  
   Supporting the industrialization of AC machines, validating specifications, and conducting MOSFET drive circuit evaluations.
 
 - **Technical Architect at Robert Bosch**  
