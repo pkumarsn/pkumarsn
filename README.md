@@ -1,6 +1,6 @@
 # I am Puneeth
 ## About Me
-I'm an electrical engineer specializing in the development of safety-critical electronic hardware for aviation and industrialization projects. With over a decade of experience, I have a strong background in PCB design, circuit simulation, and standards for aerospace electronics.
+I'm an electrical engineer specializing in the development of electronic hardware for aviation and industrial projects. With over 15 years of experience, I bring a solid background in schematic design, circuit simulation, and electronics qualification standards. I am committed to continuous learning. i stay updated with best practices to drive innovation and ensure high-quality, reliable solutions.
 
 ## Experience Highlights
 
