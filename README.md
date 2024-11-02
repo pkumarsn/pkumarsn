@@ -13,13 +13,16 @@ I'm an electrical engineer specializing in the development of electronic hardwar
 - **Systems Engineer at Accord Software**  
   Worked on GNSS technology, developed simulators, and designed high-speed digital circuits for space applications.
 
-## Key Projects
+## Key Imapct Projects
+
+### Pseudolite System
+Designed a navigation system that transmits GPS-like signals for independent navigation. This project required complex signal processing and hardware integration, using a 10-layer PCB with around 700 components, including two FPGAs and two digital signal processors.
 
 ### GPS Receiver
 Performed hardware testing, firmware programming, and environmental testing on a GPS receiver capable of tracking up to 10 satellites and providing fast position solutions.
 
-### Pseudolite System
-Designed a navigation system that transmits GPS-like signals, creating an independent navigation solution. This involved complex signal processing and hardware integration.
+### Room controllers
+Worked on multiple controller PCB designs, covering everything from requirements to production support and ongoing maintenance. I selected MCUs through DAR, ensuring they met all requirements, and coordinated with software, quality, testing, mechanical, production, and procurement teams.
 
 ### Reference Receiver Interface Card
 Developed an interface card for data communication via Ethernet, USB, and UART. It collected and managed navigation data efficiently for critical aerospace applications.
