@@ -34,7 +34,7 @@ Worked on the hardware design for a SmartCity project utilizing Intel Galileo, i
 
 - High-speed digital and analog circuit design
 - ECAD tools: Altium Designer, Zuken, OrCAD, Mentor PADS
-- Standards knowledge: DO-160, DO-254, IEC61000
+- Standards knowledge: MILSTD-883, DO-254, IEC61000,  IPC-A-610, etc
 - Programming: C, assembly (Blackfin DSP)
 
 ## Awards and Certifications
@@ -42,6 +42,7 @@ Worked on the hardware design for a SmartCity project utilizing Intel Galileo, i
 - **Bosch Growth Contributor Award** - Mar 2023
 - **Innovation Award** - Accord Software and Systems, 2013
 - **PMP Certification** - Project Management Institute, Aug 2023
+- **ARM Certified MCU Engineer**
 - **FMEA Specialist** - AIGPE™, Sep 2023
 
 ## Contact
